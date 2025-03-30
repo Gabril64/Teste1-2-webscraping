@@ -34,9 +34,11 @@ Este projeto tem como objetivo realizar web scraping para localizar e baixar arq
 #Como Executar
 
 1- Clone este repositório: 
+
   git clone https://github.com/seu-usuario/Teste1-2-webscraping.git
 
 2- Instale as dependências necessárias:
+
   pip install -r requirements.txt
 
 3- Execute o script de web scraping.
