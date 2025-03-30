@@ -1,11 +1,11 @@
-#Teste1-2-webscraping
+# Teste1-2-webscraping
 
 ============================================
 
 Este projeto tem como objetivo realizar web scraping para localizar e baixar arquivos de um site específico, seguido por um processo de transformação de dados para consolidar as informações extraídas.
 
 ============================================
-#Funcionalidades
+# Funcionalidades
 
 -  Web Scraping
 
@@ -31,7 +31,7 @@ Este projeto tem como objetivo realizar web scraping para localizar e baixar arq
 
 ============================================
 
-#Como Executar
+# Como Executar
 
 1- Clone este repositório: 
 
